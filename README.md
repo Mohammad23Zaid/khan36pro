@@ -1,3 +1,2 @@
- Simple code assignment
-which show the heading, Title, and Elements
-In the assignment simple coding 
+All the Assignment files 
+with complete layouts and Coding 
